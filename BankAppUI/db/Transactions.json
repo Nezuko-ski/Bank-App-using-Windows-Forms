@@ -1,0 +1,16 @@
+{"AccountNumber":"5431065532","Description":"Deposit Money","Amount":"5000","Balance":"6000","Date":"2021-07-31T15:32:37.147234+01:00"}
+{"AccountNumber":"5207428105","Description":"Deposit Money","Amount":"50000","Balance":"60000","Date":"2022-07-28T10:28:58.0098408+01:00"}
+{"AccountNumber":"7110336021","Description":"Deposit Money","Amount":"20000","Balance":"40000","Date":"2022-07-28T10:42:56.3284206+01:00"}
+{"AccountNumber":"5207428105","Description":"Withdraw Money","Amount":"5000","Balance":"55000","Date":"2022-07-29T08:55:04.7661365+01:00"}
+{"AccountNumber":"5207428105","Description":"Withdrawal","Amount":"20000","Balance":"35000","Date":"2022-07-29T09:26:47.3641056+01:00"}
+{"AccountNumber":"5207428105","Description":"Withdrawal","Amount":"2000","Balance":"33000","Date":"2022-07-29T09:33:55.0781809+01:00"}
+{"AccountNumber":"7110336021","Description":"Deposit","Amount":"2000","Balance":"42000","Date":"2022-07-29T09:33:55.0859198+01:00"}
+{"AccountNumber":"7110336021","Description":"Deposit","Amount":"3000","Balance":"45000","Date":"2022-07-30T21:36:34.2439259+01:00"}
+{"AccountNumber":"5207428105","Description":"Money out","Amount":"10000","Balance":"23000","Date":"2022-07-31T08:47:55.728731+01:00"}
+{"AccountNumber":"7110336021","Description":"Deposit","Amount":"10000","Balance":"55000","Date":"2022-07-31T08:47:55.7354078+01:00"}
+{"AccountNumber":"4724574672","Description":"Deposit","Amount":"2000000","Balance":"2000000","Date":"2022-07-31T09:01:11.5144714+01:00"}
+{"AccountNumber":"7110336021","Description":"Money out","Amount":"40000","Balance":"15000","Date":"2022-08-01T19:01:36.0302086+01:00"}
+{"AccountNumber":"4724574672","Description":"Deposit","Amount":"40000","Balance":"2040000","Date":"2022-08-01T19:01:36.0372661+01:00"}
+{"AccountNumber":"5207428105","Description":"Money out","Amount":"6000","Balance":"17000","Date":"2022-08-02T16:51:33.7850968+01:00"}
+{"AccountNumber":"5207428105","Description":"Money out","Amount":"3000","Balance":"14000","Date":"2022-08-02T16:52:19.6318621+01:00"}
+{"AccountNumber":"7110336021","Description":"Deposit","Amount":"3000","Balance":"18000","Date":"2022-08-02T16:52:19.6442031+01:00"}
